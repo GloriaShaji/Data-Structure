@@ -2,6 +2,7 @@
 int main()
 {
 int a[30],i,n,item,flag=-1;
+printf("\n\t LINEAR SEARCH \n");
 printf("\n Enter the limit: ");
 scanf("%d",&n);
 printf("\n Enter the elements: ");
